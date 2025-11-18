@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1MMCBNuljMaiCfLqjTr8orAiMwXI_rDBE
 """
 
-# Arquivo: implementation_prototype.py
+# Arquivo: prototipo_de_implementacao_de_backend.py
 # Protótipo de Backend para o SGHSS VidaPlus
 # Este código simula a lógica de requisitos críticos: Controle de Acesso (RNF02) e Agendamento (RF03).
 
