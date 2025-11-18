@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1UJuVKD2PS7FmAftTG0Cgj4DdEkRdGY02
 """
 
-# Arquivo: unit_test_example.py
+# Arquivo: teste_unitario_para_agendamento_(rf03).py
 # Exemplo de Teste Unitário usando a biblioteca 'unittest' para validar a Regra de Negócio RF03.
 # O foco é testar a lógica da função 'agendar_consulta' em isolamento.
 
